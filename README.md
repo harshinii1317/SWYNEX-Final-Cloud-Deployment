@@ -29,7 +29,7 @@ GitHub stores the source code and connects to the deployment workflow.
 
 Live Website: https://cloud-computing-guide.netlify.app/
 
-Task 2 Repository: https://github.com/harshini1317/SWYNEX-Basic-Cloud-Deployment
+Task 2 Repository: https://github.com/harshinii1317/SWYNEX-Basic-Cloud-Deployment
 
 4. Monitoring Plan
 
